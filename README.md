@@ -1,4 +1,4 @@
-# LanChat
+# LanChat :globe_with_meridians:
 
 --Lan chatting between devices on same network (NetBeans Project - console).--
 
